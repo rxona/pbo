@@ -1,0 +1,1 @@
+print('PPN (10%):', int(input('Total pembelian: ')) / 10)
